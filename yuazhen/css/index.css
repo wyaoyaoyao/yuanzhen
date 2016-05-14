@@ -1,0 +1,89 @@
+.toubu img{width:100%;}
+
+/*我们能做什么*/
+.block img{height:56px;width:254px;display:block;margin:0 auto;padding:75px 0 25px 0;}
+.block p{font-size:14px;text-align:center;color:#767373;font-weight:bold;}
+.wangzhan{width:100%;height:420px;margin:50px 0 0 0;}
+
+.title{font-size:18px;text-align: center;margin:14px 0;}
+.wangzhan ul li{float: left;width: 160px;height:340px;margin-right:28px;position:relative;bottom:0;}
+.wangzhan ul li:last-child{margin-right:0;}
+.wangzhan ul li a.tupian{width: 160px;height:165px; border-radius: 100%;background-color:#eee;display: inline-block;text-align: center;vertical-align: middle;line-height: 165px;}
+.wangzhan ul li a i.icon{display: inline-block; vertical-align: middle; background: url('../img/ie_icon3.png') no-repeat}
+.wangzhan ul li a i.icon1{width:78px;height:80px;background-position:-198px 0;}
+.wangzhan ul li a.tupian:hover,.wangzhan ul li a.tupian1{background-color: #f86d0d;border-color:#f86d0d; color:#ffffff;}
+.wangzhan ul li a i.icon2{width: 82px;height: 74px;background-position: -416px 0;}
+.wangzhan ul li a:hover i.icon2{background-position: -628px 0;}
+.wangzhan ul li a i.icon3{width:68px;height:68px;background-position:0 -157px;}
+.wangzhan ul li a:hover i.icon3{width:68px;height:68px;background-position:-208px -168px;}
+.wangzhan ul li a i.icon4{width:80px;height:63px;background-position:-418px -174px;}
+.wangzhan ul li a:hover i.icon4{width:80px;height:63px;background-position:-628px -168px;}
+.wangzhan ul li a i.icon5{width:78px;height:68px;background-position:0 -317px;}
+.wangzhan ul li a:hover i.icon5{width:78px;height:68px;background-position:-208px -317px;}
+.wangzhan ul li a i.icon6{width:72px;height:61px;background-position:-417px -317px;}
+.wangzhan ul li a:hover i.icon6{width:72px;height:61px;background-position:-637px -324px;}
+.wangzhan ul li p{font-size:12px;line-height:18px;}
+.more{font-size:14px;width:155px;height:30px;border:1px solid #000000;line-height:30px;display:block;text-align:center;vertical-align:text-top;position:absolute;bottom:0;}
+.wangzhan ul li a.more:hover,.wangzhan ul li a.more1{background:#f86d0d;border-color:#f86d0d;color:#ffffff;}
+
+
+/*PC站*/
+.zhan{width:100%;background:#393939;height:360px;}
+.women img{display:block;width:300px;height:60px;text-align: center;margin:0 auto;padding:84px 0 14px 0;}
+.women p{font-size:14px;color:#afafaf;text-align:center;}
+.anli{width:100%;background:url(../img/toubu15.png) center repeat-x;margin:45px 0;}
+.hangye{width:680px;margin:0 auto;background:#393939; overflow:hidden;}
+.hangye ul li{float:left;display: inline-block;width: 88px;height:90px;border:1px solid #565555;border-radius: 10px;margin:0 10px;}
+.hangye ul li:first-child{margin-left: 20px;}
+.hangye ul li a{display: inline-block;width: 88px;height:90px;line-height: 25px; text-align: center;color:#fff;font-size: 14px;}
+.hangye ul li a i.shouji{display:block;background:url("../img/toubu12.png")no-repeat;text-align: center;}
+.hangye ul li a:hover,.hangye ul li a.shouji1{background:#f86d0d;background-color:#f86d0d;border-radius:10px; color:#fff;}
+.hangye ul li a i.shouji1{height:37px;width: 39px;background-position: 0 -4px; margin:10px auto;}
+.hangye ul li a i.shouji2{height:41px;width:26px;background-position:-72px 0;margin:8px auto;}
+.hangye ul li a i.shouji3{height:34px;width:39px;background-position:-120px -8px;margin:11px auto;}
+.hangye ul li a i.shouji4{height:44px;width:36px;background-position:-180px 0;margin:7px auto;}
+.hangye ul li a i.shouji5{height:41px;width:27px;background-position:-255px -4px;margin:8px auto;}
+.hangye ul li a i.shouji6{height:40px;width:37px;background-position:-317px -5px;margin:8px auto;}
+.xuanchuan{width:680px;text-align:center;margin:15px auto 0;}
+.xuanchuan a{font-size:14px;color:#ffffff; text-align:center;padding:20px 0 24px 30px;}
+.wu{width:100%;}
+.lei img{margin:0 -6px;padding:0;}
+
+/*图片*/
+.niu{width:100%;}
+.nian{width:112px;margin:23px auto;}
+.nian ul li{float:left;display:block;}
+.nian ul li a{display:block;width:56px;height:65px; line-height:65px;vertical-align:middle;text-align:center;background-color: #eee;}
+.nian ul li a i.huadong{display:inline-block;background:url('../img/toubu13.png')no-repeat;vertical-align:middle;}
+.nian ul li a i.huadong1{height:38px;width:22px;background-position:-10px 0;}
+.nian ul li a:hover i.huadong1{background-position:0 -63px;}
+.nian ul li.active a,.nian ul li:hover,.nian ul li a:hover{background-color: #f86;}
+.nian ul li a i.huadong2{height:38px;width:22px;background-position:-94px 0;}
+.nian ul li.active a i.huadong2, .nian ul li a:hover i.huadong2{background-position:-104px -81px;}
+
+
+/*解决方案*/
+.jiejue img{margin:66px auto 14px 370px;}
+.jiejue p{font-size:14px;text-align:center;color:#767373;}
+.fangan{display: block;padding:0 50px 50px 50px;margin:50px auto;}
+.diannao{display:inline-block;margin-left: 50px;margin-top:50px;}
+.chakan{margin-left:78px;}
+.chakan ul li{width:306px;}
+.chakan ul li h1{font-size:30px;font-weight:bold;}
+.chakan ul li p{font-size:18px;color:#818181;line-height:26px;}
+.gengduo{height:30px;line-height:30px;width:116px;border:1px solid #000000;text-align:center;display:block;margin:20px 0;}
+.chakan ul li a:hover,.chakan ul li a.gengduo1{background:#f86d0d;border-color:#f86d0d;color:#ffffff;}
+
+/*新闻动态*/
+.xinwen{background:#d1d1d1;}
+.dongtai{padding:40px 0 10px 0;}
+.dongtai img{display:block;margin:0 auto;margin-bottom:10px;}
+.dongtai p{font-size:18px;text-align:center;color:#464646;}
+.dongtai ul{text-align: center;margin:15px auto;height:45px;}
+.dongtai ul li{display:inline-block;width:116px;text-align:center;height:45px;margin-right:22px;}
+.dongtai ul li a{display:block;width:116px;text-align:center;height:45px;border-width:5px 1px 1px 1px;line-height:45px;border-style:solid;border-color:#dcdcdc;border-top-color:#686868;}
+.dongtai ul li a:hover,.dongtai ul li a.news2{background: #f86;border-width: 1px 1px 3px 1px;border-color: #f86;border-bottom-color: #632c05;color: #fff;}
+
+.nianfen ul li{width:342px;height:90px;background:#ffffff;font-size:14px;display:inline-block;margin:0 19px 30px 0;}
+
+

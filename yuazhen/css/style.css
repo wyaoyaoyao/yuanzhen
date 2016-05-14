@@ -1,0 +1,33 @@
+*{margin:0;padding:0;}
+html{border:0;width:100%;}
+ul,ol{list-style:none; padding:0px; margin:0px;}
+li {list-style:none outside none;}
+.cl{clear: both;}
+a{text-decoration:none; color:#333;}
+a:hover,a:active{text-decoration:none;}
+.cl{ clear:both;}
+img{ border:0; vertical-align:middle;}
+.left{float:left;}
+.right{float: right;}
+
+
+/*头部css*/
+.w_1100{width: 1100px;margin:0 auto;}
+.top{height:30px; line-height:30px;background-color: #f5f5f5;}
+.logo{height:105px;margin:9px 0 0 0;}
+.menu{height: 54px;background: #454545;}
+
+/*导航css*/
+.menu li{float: left;border-right:1px solid #626160;height: 54px;}
+.menu li a{color:#fff;font-size:14px; display: block;padding: 8px 20px;text-align:center;}
+.menu li a span{display: block;font-size: 10px;padding-top: 4px;text-align:center;}
+.menu_list{height: 54px;position: relative;}
+.dddd{display: none;position: absolute;top: 54px;left: 0;}
+.menu li a:hover{background: #f86d0d;}
+.menu li:hover .dddd{display: block;}
+
+
+
+
+
+   
